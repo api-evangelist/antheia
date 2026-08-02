@@ -1,0 +1,50 @@
+# Antheia
+
+> Antheia, Inc. (antheia.bio) is a Menlo Park, California synthetic-biology company that manufactures biosynthetic key starting materials (KSMs) and active pharmaceutical ingredients (APIs) for essential medicines. Founded on Christina Smolke's Stanford research, Antheia engineers yeast strains that reconstruct long, complex plant biosynthetic pathways and ferment sugar into molecules previously obtainable only through agricultural cultivation — compressing production timelines from years to weeks. Commercial products are fermentation-derived thebaine, oripavine and scopolamine; the development pipeline covers 70+ KSMs and APIs across neurology, gastrointestinal and oncology programs.
+
+## Important disambiguation
+
+- Antheia's "APIs" are **Active Pharmaceutical Ingredients**, a pharmaceutical-manufacturing term — not web APIs. As of a 2026-08-02 probe Antheia publishes **no developer API, no OpenAPI/GraphQL/AsyncAPI contract, no SDKs, no MCP server, and no A2A agent card**. There is no developer portal and no `api.`/`docs.`/`developer.` subdomain (all NXDOMAIN). Do not infer a programmable interface from the word "API" on this company's pages.
+
+## Company
+
+- [Antheia](https://antheia.bio/): Company home — next-generation pharmaceutical ingredient manufacturer.
+- [About Us](https://antheia.bio/about/): Mission, history, and leadership team.
+- [Platform](https://antheia.bio/platform/): Yeast-based biosynthesis platform — build, screen & develop, optimize, scale (bench → 500L pilot → >100,000L industrial).
+- [Pipeline](https://antheia.bio/pipeline/): Commercial products (thebaine, oripavine, scopolamine) and development-stage programs (ANT 104/105/106/108, ANT 206, ANT 302, ANT 401/402/403).
+- [Customers](https://antheia.bio/customers/): Who Antheia supplies.
+- [Suppliers](https://antheia.bio/suppliers/): Supplier information.
+- [Regulatory](https://antheia.bio/regulatory/): Regulatory submissions posture for customers referencing process-related information.
+- [Careers](https://antheia.bio/careers/): Open roles.
+- [Contact](https://antheia.bio/contact/): Primary support/contact channel.
+
+## Products
+
+- Thebaine — neurology; KSM for the semisynthesis of APIs for pain-management and addiction-treatment medicines. [Product sheet (PDF)](https://antheia.bio/wp-content/uploads/2023/08/Thebaine_ProductSheet.pdf)
+- Oripavine — neurology; KSM for chemical synthesis of opioid agonist and antagonist APIs. [Product sheet (PDF)](https://antheia.bio/wp-content/uploads/2023/08/Oripavine_Product-Sheet.pdf)
+- Scopolamine — gastrointestinal; motion sickness and post-surgical nausea, and a scaffold for further active ingredients. [Product sheet (PDF)](https://antheia.bio/wp-content/uploads/2023/08/Scopolamine_Product-Sheet.pdf)
+
+## Newsroom
+
+- [Newsroom](https://antheia.bio/newsroom/): All company news.
+- [Blog posts](https://antheia.bio/newsroom/blog-posts/): Company blog ([RSS](https://antheia.bio/newsroom/blog-posts/feed/)).
+- [Press releases](https://antheia.bio/newsroom/press-releases/): Funding, partnership, and milestone announcements.
+- [Newsletters](https://antheia.bio/newsroom/newsletters/): Archived newsletters.
+- [Media kit](https://antheia.bio/media-kit/): Logos and press assets.
+- [Knowledge base](https://antheia.bio/knowledge-base/): Resource library.
+
+## Legal
+
+- [Legal](https://antheia.bio/legal/): Privacy Policy and Terms of Use (both last updated 2018-08-17).
+
+## Elsewhere
+
+- [LinkedIn](https://www.linkedin.com/company/antheiabio)
+- [X / Twitter](https://twitter.com/antheiabio)
+- [Forge Global — Antheia stock](https://forgeglobal.com/antheia_stock/): Secondary-market listing (the source that surfaced this company into the API Evangelist harvest backlog).
+
+## Provenance
+
+- generated: 2026-08-02
+- method: generated
+- source: apis.yml + live probes of antheia.bio (no provider-published /llms.txt exists; https://antheia.bio/llms.txt returned 404)

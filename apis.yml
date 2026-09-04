@@ -10,6 +10,18 @@ deliveryModel:
   - pricing
   generated: '2026-08-28'
   method: derived
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source:
+  - security
+  generated: '2026-09-02'
+  method: derived
 image: https://antheia.bio/wp-content/uploads/2023/03/Antheia_logo-submark_forestgreen.svg
 name: Antheia
 description: 'Antheia, Inc. is a Menlo Park, California synthetic-biology company that manufactures

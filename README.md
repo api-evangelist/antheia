@@ -64,5 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Antheia is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://forgeglobal.com/antheia_stock/
+Antheia, Inc. is a Menlo Park, California synthetic-biology company that manufactures biosynthetic key starting materials (KSMs) and active pharmaceutical ingredients (APIs) for essential medicines. Founded on Christina Smolke's Stanford research, Antheia engineers yeast strains that reconstruct long, complex plant biosynthetic pathways and ferment sugar into molecules previously obtainable only through agricultural cultivation, compressing production timelines from years to weeks. Commercial products include fermentation-derived thebaine, oripavine and scopolamine, with a development pipeline of 70+ KSMs and APIs spanning neurology, gastrointestinal and oncology programs. NOTE FOR THE CATALOG: Antheia's "APIs" are Active Pharmaceutical Ingredients, not web APIs — the company publishes no developer API, SDK, or machine-readable interface contract.
+
+**Areas:** Company · Life Sciences · Biotechnology · Synthetic Biology · Pharmaceuticals · Manufacturing · Supply Chain · Fermentation · Active Pharmaceutical Ingredients · Drug Shortages
+
+## Antheia on APIs.io
+
+Everything profiled for Antheia is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/antheia/](https://apis.io/providers/antheia/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Antheia Domain Security](https://apis.io/security/antheia/antheia-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://antheia.bio/)
+- [Support](https://antheia.bio/contact/)
+- [Blog](https://antheia.bio/newsroom/blog-posts/)
+- [Terms of service](https://antheia.bio/legal/)
+- [Privacy policy](https://antheia.bio/legal/)
+
+## API Evangelist rating
+
+**Kin Score 11.1** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.9** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/antheia/](https://apis.io/providers/antheia/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Antheia: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/antheia/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
